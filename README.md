@@ -1,13 +1,22 @@
-# Long Reads Workshop, Zurich 2018
+# Welcome!
 
-This is a place of development of materials for the long read workshop organised by Patricia Palagi within
-Training mission of [Swiss Institute of Bioinformatics](https://www.sib.swiss/training).
+Welcome to the practicals of "Bioinformatics of Long Read Sequencing", [ed. Zürich 2018](https://www.sib.swiss/training/course/2018-11-longreads). This is part of the [SIB Training program 2018](https://www.sib.swiss/training/upcoming-training-courses).
 
-#### Development of materials
+# Hands-on
 
-- The text of the practicals will be in the [wiki of this repository](https://github.com/aechchiki/SIB_LongReadsWorkshop_ZH18/wiki).
-This organization will allow to move details to separated cross-linked pages and to keep the main page of practicals clear and non-polluted by details.
-- This repository should serve mainly for testing, but also for the record of downloaded data, all the scripts, etc.
-- You can add here figures (preferably `png` format) that can be linked from wiki, also some SMALL datasets
-- You should NOT add here bigger data, pdfs, or other stuff that is not very useful to version
-- Do not hesitate to use issues.
+Get started [here!](https://github.com/aechchiki/SIB_LongReadsWorkshop_ZH18/wiki)
+
+Your trainers this year are: [Amina](https://www.sib.swiss/people/Amina.Echchiki) and [Walid](https://www.sib.swiss/people/Walid.Gharib). Kudos to [Patricia](https://www.sib.swiss/people/Patricia.Palagi) for the whole course organisation.
+
+*Note: The non-wiki part of this repository is to be intended as "developer playground", and not intended for the course participants directly. An explanation about the practicals format and timing will follow.*
+
+# Feedback!
+
+Any input is appreciated. 
+
+Let us know your thoughts about this hands-on through:
+- direct communication with trainers
+- [issues](https://github.com/aechchiki/SIB_LongReadsWorkshop_ZH18/issues)
+- the official feedback form (provided at the end of the practicals)
+
+# Have a great time!
